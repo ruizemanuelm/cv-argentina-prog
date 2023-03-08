@@ -1,0 +1,13 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Kanit', sans-serif;
+}
+main h3 {
+    color: rgba(243, 0, 223, 0.904);
+}
+h1 {
+    color: aquamarine;
+}
